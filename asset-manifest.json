@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://varunkittu.github.io/csb-xbmif/static/css/main.9f3dbeab.chunk.css",
+    "main.js": "https://varunkittu.github.io/csb-xbmif/static/js/main.768fee65.chunk.js",
+    "main.js.map": "https://varunkittu.github.io/csb-xbmif/static/js/main.768fee65.chunk.js.map",
+    "runtime-main.js": "https://varunkittu.github.io/csb-xbmif/static/js/runtime-main.78d81fe9.js",
+    "runtime-main.js.map": "https://varunkittu.github.io/csb-xbmif/static/js/runtime-main.78d81fe9.js.map",
+    "static/js/2.6d5ae380.chunk.js": "https://varunkittu.github.io/csb-xbmif/static/js/2.6d5ae380.chunk.js",
+    "static/js/2.6d5ae380.chunk.js.map": "https://varunkittu.github.io/csb-xbmif/static/js/2.6d5ae380.chunk.js.map",
+    "index.html": "https://varunkittu.github.io/csb-xbmif/index.html",
+    "static/css/main.9f3dbeab.chunk.css.map": "https://varunkittu.github.io/csb-xbmif/static/css/main.9f3dbeab.chunk.css.map",
+    "static/js/2.6d5ae380.chunk.js.LICENSE.txt": "https://varunkittu.github.io/csb-xbmif/static/js/2.6d5ae380.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78d81fe9.js",
+    "static/js/2.6d5ae380.chunk.js",
+    "static/css/main.9f3dbeab.chunk.css",
+    "static/js/main.768fee65.chunk.js"
+  ]
+}
